@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  /* Permet le défilement doux quand on clique sur les liens du menu */
+  scroll-behavior: smooth;
+}
+
+body {
+  /* Le fond très sombre (Zinc-950) */
+  background-color: #09090b; 
+  /* Texte blanc par défaut */
+  color: white;
+  /* On cache le curseur par défaut pour afficher notre rond personnalisé */
+  cursor: none;
+  /* On empêche le scroll horizontal accidentel */
+  overflow-x: hidden;
+}
+
+/* 3. Exception pour Mobile */
+/* Sur téléphone, on réactive le curseur normal car il n'y a pas de souris */
+@media (max-width: 768px) {
+  body {
+    cursor: auto;
+  }
+}

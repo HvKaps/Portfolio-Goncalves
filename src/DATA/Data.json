@@ -1,0 +1,174 @@
+[
+  {
+    "id": 1,
+    "titre": "HIRABIO",
+    "categorie": "Site Web",
+    "annee": "2024",
+    "couleur": "#1E1E24",
+    "image": "/image/plante.png",
+    "description": "HARIBIO est un projet qui consiste à développer un site web contenant des graphes réalisés à l’aide de bibliothèques comme Chart.js ou D3.js, sur le thème des biocontrôles dans le monde agricole.",
+    "technos": [
+      "Chart.js",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Maquette Figma",
+      "Bootstrap",
+      "photoShop",
+      "illustrator"
+    ],
+    "challenge": "Manipuler des fichiers CSV et les visualiser sous forme de graphiques et mise en pratique des autre comptence aquis.",
+    "solution": "Utilisation de Chart.js pour la création des graphiques dynamiques creation de maquette.",
+    "resources": [
+      {
+        "type": "web",
+        "title": "Développement Web",
+        "desc": "Création de sites performants et responsives. animations fluides pour une expérience utilisateur sans faille.",
+        "url": "https://haribio.vercel.app",
+        "btnText": "Voir le site"
+      },
+      {
+        "type": "figma",
+        "title": "Design UI/UX",
+        "desc": "Conception d'interfaces modernes sur Figma. Maquettage, prototypage et Design Systems pour des produits visuellement impactants.",
+        "url": "https://www.figma.com/design/OGm1JEVGNe8K32S12bpLnv/Hirabio?node-id=0-1&t=HkfXLvFNKYKMA5k0-1",
+        "btnText": "Voir la maquette"
+      },
+      {
+        "type": "github",
+        "title": "GitHub",
+        "desc": "Retrouvez le code source complet de ce projet sur mon dépôt GitHub. Explorez et visualisez chaque détail.",
+        "url": "https://github.com/IbtissamCTI/HARIBIO",
+        "btnText": "Voir le code"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titre": "LA CITÉ DES MILLES-MILLES",
+    "categorie": "Webdocumentaire",
+    "annee": "2024",
+    "couleur": "#1E1E24",
+    "image": "/image/webdoc.png",
+    "description": "Nous avons réalisé un web documentaire sur la Cité des Milles-Milles, dans le but de mettre en lumière un aspect souvent négligé de ce quartier : sa beauté et ses aspects positifs, malgré les difficultés et les stéréotypes souvent associés à ces lieux. \nLe projet visait à montrer un visage positif et inspirant de ce quartier, trop souvent dépeint sous un jour négatif dans les médias. À travers ce documentaire interactif, nous avons voulu révéler les histoires, les cultures et les initiatives locales qui font la richesse de la Cité des Milles-Milles.",
+    "technos": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Maquette Figma",
+      "Bootstrap",
+      "photoShop",
+      "illustrator"
+    ],
+    "challenge": "Mettre en valeur un quartier souvent stigmatisé à travers un web documentaire interactif et immersif.",
+    "solution": "Création d'un web documentaire interactif et immersif mettant en lumière les aspects positifs de la Cité des Milles-Milles.",
+    "resources": [
+      {
+        "type": "web",
+        "title": "Développement Web",
+        "desc": "Creation de sites avec un design attrayant et une navigation intuitive pour une expérience utilisateur optimale.",
+        "url": "https://lesmillesmilles.vercel.app",
+        "btnText": "Voir le site"
+      },
+      {
+        "type": "figma",
+        "title": "Design UI/UX",
+        "desc": "Conception d'interfaces modernes sur Figma. Maquettage.",
+        "url": "https://www.figma.com/design/MhCHC5fll2bjdtWqkYKHni/MAQUETTE-WEBDOC-302-LA-CITE-DES-MILLES-MILLES?node-id=0-1&t=LOjBH7LqALnqgA4r-1",
+        "btnText": "Voir la maquette"
+      }
+    ],
+    "galerie": [
+      {
+        "img": "/image/Eglise.png"
+      },
+      {
+        "img": "/image/3eme.png"
+      },
+      {
+        "img": "/image/1er.png"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titre": "Illustration",
+    "categorie": "Design Graphique",
+    "annee": "2024-2025",
+    "couleur": "#1E1E24",
+    "image": "/image/Graphisme.png",
+    "description": "Lors de mes anneés de formation, j'ai eu l'opportunité de travailler sur divers projets de design graphique, allant de la création de logos à la conception d'affiches. Ces expériences m'ont permis de développer mes compétences en illustration, en typographie et en mise en page, tout en explorant différents styles artistiques.",
+    "technos": [
+      "photoShop",
+      "illustrator"
+    ],
+    "challenge": "Créer des visuels percutants et esthétiques qui communiquent efficacement le message souhaité.",
+    "solution": "Utilisation d'outils de design graphique pour créer des illustrations originales et adaptées aux besoins du projet.",
+    "resources": [
+      {
+        "type": "Charte",
+        "title": "Charte Graphique",
+        "desc": "Développement de chartes graphiques cohérentes pour renforcer l'identité visuelle d'une marque.",
+        "url": "https://goncalves-portfolio.my.canva.site/goncalves-fernandes-charte-graphique",
+        "btnText": "Voir la Charte Graphique"
+      }
+    ],
+    "galerie": [
+      {
+        "img": "/image/logo pap.png"
+      },
+      {
+        "img": "/image/canette_rose_capvert.png"
+      },
+      {
+        "img": "/image/canette2.png"
+      },
+      {
+        "img": "/image/AFFICHER Epicerie  copy.png"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titre": "NOVATIO (En Cours)",
+    "categorie": "Site Web",
+    "annee": "2026",
+    "couleur": "#1E1E24",
+    "image": "/image/encours.png",
+    "description": "Novation est un projet qui consiste a proposer des formation en ligne comme les grand concurent du marche.",
+    "technos": [
+      "React.js",
+      "Spring Boot",
+      "Docker",
+      "JavaScript",
+      "Maquette Figma",
+      "photoShop",
+      "illustrator"
+    ],
+    "challenge": "Apprendre a bien gerer React.js avec Spring boot et Docker.",
+    "solution": "Utilisation de React.js pour le front-end, Spring Boot pour le back-end et Docker pour la containerisation.",
+    "resources": [
+      {
+        "type": "web",
+        "title": "Développement Web",
+        "desc": "Développement d'une application web complète avec React.js, Spring Boot et Docker.",
+        "url": "",
+        "btnText": "Attendre la fin du projet"
+      },
+      {
+        "type": "figma",
+        "title": "Design UI/UX",
+        "desc": "Conception d'interfaces modernes sur Figma. Maquettage, prototypage et Design Systems pour des produits visuellement impactants.",
+        "url": "",
+        "btnText": "Attendre la fin du projet"
+      },
+      {
+        "type": "github",
+        "title": "GitHub",
+        "desc": "Retrouvez le code source complet de ce projet sur mon dépôt GitHub. Explorez et visualisez chaque détail.",
+        "url": "",
+        "btnText": "Attendre la fin du projet"
+      }
+    ]
+  }
+]
