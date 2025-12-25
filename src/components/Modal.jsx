@@ -8,8 +8,8 @@ import {
 	Github,
 	Image as ImageIcon,
 } from "lucide-react";
+import Footer from "./Footer.jsx";
 
-// 1. CONFIGURATION SIMPLE : On définit les styles ici, en dehors du composant.
 
 const RESSOURCE_STYLES = {
 	web: {
@@ -281,6 +281,7 @@ const Modal = ({ data, close, darkMode }) => {
 					</div>
 				)}
 				
+				{/* Bouton Fermer */}
 				<div className="flex items-center justify-center mt-20">
 					<button
 						onClick={close}
@@ -288,8 +289,13 @@ const Modal = ({ data, close, darkMode }) => {
 					>
 						Fermer le projet
 					</button>
+					
 				</div>
+				
 			</div>
+			<div>
+						<Footer darkMode={darkMode} />
+					</div>
 		</div>
 	);
 };
