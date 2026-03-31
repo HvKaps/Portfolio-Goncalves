@@ -170,5 +170,38 @@
         "btnText": "Attendre la fin du projet"
       }
     ]
-  }
+  },
+    {
+  "id": 5,
+  "titre": "SYNAPSE",
+  "categorie": "SaaS / Marketplace B2B",
+  "annee": "2026",
+  "couleur": "#1E1E24",
+  "image": "/image/synapse-preview.png",
+  "description": "Synapse est une marketplace B2B premium qui digitalise l'apport d'affaires. Elle connecte entreprises, agents et freelances d'élite via une interface sécurisée et intuitive[cite: 1, 3].",
+  "technos": [
+    "React.js",
+    "Tailwind CSS",
+    "JavaScript"
+  ],
+  "challenge": "Concevoir une interface 'Team Builder' complexe permettant de simuler la création d'équipes et la répartition budgétaire entre plusieurs prestataires[cite: 41, 166].",
+  "solution": "Développement d'une SPA (Single Page Application) avec React.js et Tailwind CSS pour une expérience utilisateur fluide, rapide et un design moderne axé sur la conversion[cite: 50, 269].",
+  "resources": [
+    {
+      "type": "web",
+      "title": "Interface SaaS",
+      "desc": "Maquette fonctionnelle du dashboard incluant le flux de dépôt de besoin et la gestion du vivier d'agents[cite: 36, 128].",
+      "url": "https://synapse-lac-eight.vercel.app",
+      "btnText": "Voir le MVP"
+    },
+
+    {
+      "type": "github",
+      "title": "GitHub",
+      "desc": "Architecture React propre et modulaire, préparée pour l'intégration prochaine d'une API et de fonctionnalités vocales[cite: 26, 39].",
+      "url": "",
+      "btnText": "Code Source"
+    }
+  ]
+}
 ]

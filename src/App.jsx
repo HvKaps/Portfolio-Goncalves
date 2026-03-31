@@ -171,7 +171,7 @@ export default function App() {
 					darkMode ? "border-white/5" : "border-black/5"
 				}`}
 			>
-				{/* ... contenu about ... */}
+			
 				<div className="grid md:grid-cols-2 gap-16 items-center">
 					<div>
 						<h2 className="text-4xl md:text-6xl font-bold mb-8">
@@ -308,6 +308,16 @@ export default function App() {
 								<Skill
 									title="MySQL"
 									icon={Database}
+									borderColor="hover:border-blue-500/50"
+									gradientColor="from-blue-500/10"
+								/><Skill
+									title="react native"
+									icon={Smartphone}
+									borderColor="hover:border-blue-500/50"
+									gradientColor="from-blue-500/10"
+								/><Skill
+									title="Expo Go"
+									icon={DeviceTablet}
 									borderColor="hover:border-blue-500/50"
 									gradientColor="from-blue-500/10"
 								/>
