@@ -35,7 +35,7 @@ const RESSOURCE_STYLES = {
 		icon: ExternalLink,
 		couleurTexte: "text-gray-400",
 		couleurBordure: "hover:border-gray-500/50",
-		couleurFond: "from-gray-500/10",
+		couleurFond: "from-gray-500/10", 
 	},
 };
 

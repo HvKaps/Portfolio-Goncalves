@@ -31,6 +31,8 @@ import {
 	ClipboardList,
 	TrendingUp,
 	Search,
+	Smartphone,
+	Tablet,
 } from "lucide-react";
 import Modal from "./components/Modal.jsx";
 import Project from "./components/Project.jsx";
@@ -317,7 +319,7 @@ export default function App() {
 									gradientColor="from-blue-500/10"
 								/><Skill
 									title="Expo Go"
-									icon={DeviceTablet}
+									icon={Tablet}
 									borderColor="hover:border-blue-500/50"
 									gradientColor="from-blue-500/10"
 								/>
