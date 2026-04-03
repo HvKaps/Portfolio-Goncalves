@@ -129,48 +129,48 @@
     ]
   },
   {
-    "id": 4,
-    "titre": "NOVATIO (En Cours)",
-    "categorie": "Site Web",
-    "annee": "2026",
-    "couleur": "#1E1E24",
-    "image": "/image/encours.png",
-    "description": "Novation est un projet qui consiste a proposer des formation en ligne comme les grand concurent du marche.",
-    "technos": [
-      "React.js",
-      "Spring Boot",
-      "Docker",
-      "JavaScript",
-      "Maquette Figma",
-      "photoShop",
-      "illustrator"
-    ],
-    "challenge": "Apprendre a bien gerer React.js avec Spring boot et Docker.",
-    "solution": "Utilisation de React.js pour le front-end, Spring Boot pour le back-end et Docker pour la containerisation.",
-    "resources": [
-      {
-        "type": "web",
-        "title": "Développement Web",
-        "desc": "Développement d'une application web complète avec React.js, Spring Boot et Docker.",
-        "url": "",
-        "btnText": "Attendre la fin du projet"
-      },
-      {
-        "type": "figma",
-        "title": "Design UI/UX",
-        "desc": "Conception d'interfaces modernes sur Figma. Maquettage, prototypage et Design Systems pour des produits visuellement impactants.",
-        "url": "",
-        "btnText": "Attendre la fin du projet"
-      },
-      {
-        "type": "github",
-        "title": "GitHub",
-        "desc": "Retrouvez le code source complet de ce projet sur mon dépôt GitHub. Explorez et visualisez chaque détail.",
-        "url": "",
-        "btnText": "Attendre la fin du projet"
-      }
-    ]
-  },
+  "id": 4,
+  "titre": "NOVATIO",
+  "categorie": "Site Web",
+  "annee": "2026",
+  "couleur": "#1E1E24",
+  "image": "/image/novatio.png",
+  "description": "Novatio est une plateforme de formations en ligne, conçue pour rivaliser avec les grands acteurs du marché.",
+  "technos": [
+    "React.js",
+    "Spring Boot",
+    "Docker",
+    "JavaScript",
+    "Figma",
+    "Photoshop",
+    "Illustrator"
+  ],
+  "challenge": "Maîtriser l'intégration d'une architecture complète alliant React.js pour l'interface et Spring Boot pour le serveur, tout en assurant la conteneurisation de l'environnement avec Docker.",
+  "solution": "Développement d'une application full-stack performante utilisant React.js pour le front-end, Spring Boot pour la création d'une API robuste en back-end et Docker pour un déploiement standardisé.",
+  "resources": [
+    {
+      "type": "web",
+      "title": "Application Web",
+      "desc": "Plateforme web complète développée avec React.js, Spring Boot et Docker. (Accès - Login : admin ; Mdp : amdin123)",
+      "url": "https://novatio-delta.vercel.app/",
+      "btnText": "Voir le Site"
+    },
+    {
+      "type": "figma",
+      "title": "Design UI/UX",
+      "desc": "Conception d'interfaces modernes sur Figma. Maquettage, prototypage et Design System pour un produit visuellement impactant.",
+      "url": "https://www.figma.com/design/PMXJ0MDn51MYzCvH8guIBe/SAE-501?node-id=24-13&p=f",
+      "btnText": "Voir la Maquette"
+    },
+    {
+      "type": "github",
+      "title": "GitHub",
+      "desc": "Code source complet du projet. Exploration de l'architecture full-stack et de la configuration des conteneurs.",
+      "url": "https://github.com/IbtissamCTI/SAE501",
+      "btnText": "Code Source"
+    }
+  ]
+},
   {
     "id": 5,
     "titre": "SYNAPSE",
@@ -202,5 +202,52 @@
         "btnText": "Code Source"
       }
     ]
-  }
+  },
+{
+  "id": 6,
+  "titre": "DARDANIA BOXE CLUB",
+  "categorie": "Site Web & Dashboard Métier",
+  "annee": "2026",
+  "couleur": "#1E1E24",
+  "image": "/image/dardania-preview.png",
+  "description": "Création d'un écosystème digital complet pour un club de boxe locale. Accompagnement couvrant l'identité visuelle, la production multimédia (photos/vidéos) et le développement d'un site dynamique couplé à un Dashboard de gestion.",
+  "technos": [
+    "Next.js",
+    "Spring Boot",
+    "MySQL"
+  ],
+  "challenge": "Transformer l'image du club pour offrir une visibilité haut de gamme, tout en développant un système d'information métier sécurisé pour automatiser la gestion des adhérents, des dons et des événements.",
+  "solution": "Déploiement d'une architecture full-stack modulaire (Front Vercel, API Render, DB Railway) avec intégration de médias optimisés (WebP, MP4) pour garantir des temps de chargement ultra-rapides.",
+  "resources": [
+    {
+      "type": "web",
+      "title": "Site Public & Dashboard",
+      "desc": "Interface utilisateur immersive et espace d'administration pour la gestion du club. (Accès testeur - Login : admin ; Mdp : admin123)",
+      "url": "https://dardaniaclub.vercel.app/",
+      "btnText": "Voir le Site"
+    },
+    {
+      "type": "github",
+      "title": "GitHub Frontend",
+      "desc": "Code source de l'interface publique et du dashboard (React/Next.js).",
+      "url": "https://github.com/HvKaps/PROJET-TUTORE-BOXE.git",
+      "btnText": "Code Front"
+    },
+    {
+      "type": "github",
+      "title": "GitHub Backend",
+      "desc": "Code source de l'API REST sécurisée (Spring Boot 3/Java 21).",
+      "url": "https://github.com/IbtissamCTI/dardania-back.git",
+      "btnText": "Code Back"
+    },
+    {
+      "type": "link",
+      "title": "Documentation",
+      "desc": "Centralisation des livrables, rapports mensuels, schémas techniques et assets graphiques.",
+      "url": "https://linktr.ee/mmiprojettutoree",
+      "btnText": "Voir le Linktree"
+    }
+  ]
+}
+
 ]
