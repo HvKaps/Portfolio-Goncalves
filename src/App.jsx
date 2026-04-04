@@ -98,7 +98,7 @@ export default function App() {
 					HV.DEV
 				</a>
 				<nav className="hidden md:flex gap-8 text-sm font-medium opacity-80">
-					{["About", "Projets", "Competences", "Contact"].map(
+					{["À Propos", "Réalisations", "Competences", "Contact"].map(
 						(item) => (
 							<button
 								key={item}
@@ -129,7 +129,7 @@ export default function App() {
 				</div>
 			</header>
 
-			{/* ... LE RESTE DE TON CODE RESTE IDENTIQUE ... */}
+		
 
 			{/* HERO */}
 			<section className="h-screen flex flex-col justify-center items-center text-center px-4 relative overflow-hidden">
@@ -143,7 +143,7 @@ export default function App() {
 								: "bg-blue-100 border-blue-200 text-blue-600"
 						}`}
 					>
-						🚀 Recherche D'un Stage
+						🚀 Recherche de Stage
 					</div>
 					<h1
 						className={`text-[12vw] font-bold leading-none tracking-tighter text-transparent bg-clip-text bg-gradient-to-b ${
@@ -152,16 +152,16 @@ export default function App() {
 								: "from-zinc-900 to-zinc-500"
 						}`}
 					>
-						Developpeur
+						Développeur
 						<br />
-						Etudiant.
+						Étudiant
 					</h1>
 					<p
 						className={`mt-6 text-xl max-w-lg mx-auto ${
 							darkMode ? "text-zinc-400" : "text-zinc-600"
 						}`}
 					>
-						J'apprends à développer des applications web modernes.
+						je réalise des applications web modernes.
 					</p>
 				</div>
 			</section>
@@ -189,8 +189,8 @@ export default function App() {
 							Durant cette année, j'ai eu l'occasion d'acquérir de
 							nombreuses compétences dans divers domaines liés au
 							multimédia et à l'internet. <br /> <br />
-							Ces compétences incluent, entre autres, la
-							conception graphique, le développement web, la
+							Ces compétences incluent, entre autres, le développement web, la
+							conception graphique, la
 							gestion de projets numériques et l'utilisation de
 							différents outils de création et de gestion de
 							contenu. <br /> <br />
@@ -209,7 +209,7 @@ export default function App() {
 							</div>
 							<div className="flex items-center gap-2">
 								<Globe size={16} className="text-blue-400" />{" "}
-								Paris
+								Île De France
 							</div>
 							<div className="flex items-center gap-2">
 								<IdCard size={16} className="text-blue-400" />{" "}
@@ -237,7 +237,7 @@ export default function App() {
 			<section id="projets" className="pb-40 px-4">
 				<div className="max-w-6xl mx-auto mb-12 px-4">
 					<h2 className="text-4xl md:text-6xl font-bold">
-						Mes Projets
+						Mes Réalisations
 					</h2>
 				</div>
 				<div className="flex flex-col gap-10">
