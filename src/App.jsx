@@ -143,7 +143,7 @@ export default function App() {
 								: "bg-blue-100 border-blue-200 text-blue-600"
 						}`}
 					>
-						🚀 Recherche de Stage
+						🚀 Recherche d'une Alternance
 					</div>
 					<h1
 						className={`text-[12vw] font-bold leading-none tracking-tighter text-transparent bg-clip-text bg-gradient-to-b ${
@@ -184,19 +184,14 @@ export default function App() {
 								darkMode ? "text-zinc-400" : "text-zinc-600"
 							}`}
 						>
-							Je suis <strong className="bg">Hugo</strong>,
-							Etudiant en 3eme année de BUT MMI. <br /> <br />
-							Durant cette année, j'ai eu l'occasion d'acquérir de
-							nombreuses compétences dans divers domaines liés au
-							multimédia et à l'internet. <br /> <br />
-							Ces compétences incluent, entre autres, le développement web, la
-							conception graphique, la
-							gestion de projets numériques et l'utilisation de
-							différents outils de création et de gestion de
-							contenu. <br /> <br />
-							J'ai pu mettre en pratique ces connaissances et
-							compétences à travers plusieurs projets que j'ai
-							réalisé tout au long des années.
+							Je suis <strong className="bg">Hugo</strong>, 
+    futur étudiant en Master et fort d'une expérience concrète en agence. <br /> <br />
+    Après trois années de BUT MMI, j'ai développé un profil hybride et polyvalent, 
+    capable de naviguer facilement entre la logique technique et la créativité visuelle. <br /> <br />
+    Mes compétences clés se concentrent aujourd'hui sur le développement Full-Stack (React.js), 
+    le design UI/UX et la création graphique. <br /> <br />
+    J'ai pu mettre en pratique ces connaissances à travers divers projets universitaires 
+    et professionnels, que je vous invite à découvrir ici.
 						</p>
 						<div
 							className={`flex gap-6 text-sm font-medium ${
