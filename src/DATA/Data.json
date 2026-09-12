@@ -248,6 +248,90 @@
       "btnText": "Voir le Linktree"
     }
   ]
-}
+},
+{
+  "id": 7,
+  "titre": "Timehebdo",
+  "categorie": "Site Web ",
+  "annee": "2026",
+  "couleur": "#1E1E24",
+  "image": "/image/Timehebdo.png",
+  "description": "dans le cadre de mon stage chez Adstriver j'ai chargé de faire la refonte d'un site et de l'améliorer pour que les utilisateurs puissent calculer facilement leur temps de travail hebdomadaire et mensuel, avec une interface conviviale et responsive.",
+  "technos": [
+    "HTML",
+    "Tailwind CSS",
+    "JavaScript"
+  ],
+  "challenge": "Créer un site web interactif permettant aux utilisateurs de calculer facilement leur temps de travail hebdomadaire et mensuel, avec une interface conviviale et responsive.",
+  "solution": "Développement d'une application web simple et intuitive utilisant HTML, Tailwind CSS et JavaScript pour offrir une expérience utilisateur fluide et efficace.",
+  "resources": [
+    {
+      "type": "web",
+      "title": "Site Web",
+      "desc": "Application web interactive pour le calcul du temps de travail hebdomadaire et mensuel.",
+      "url": "https://timehebdo.adstriver.com",
+      "btnText": "Voir le Site"
+    },{
+      "type": "web",
+      "title": "Ancien Site Web",
+      "desc": "Ancien site web avant la refonte, présentant des fonctionnalités limitées et une interface moins conviviale.",
+      "url": "https://timehebdo.vercel.app",
+      "btnText": "Voir le Site"
+    }
 
+  ]
+},
+{
+  "id": 8,
+  "titre": "Form Kbm-Recycling",
+  "categorie": "Formulaire Web",
+  "annee": "2026",
+  "couleur": "#1E1E24",
+  "image": "/image/KBM.png",
+  "description": "Dans le cadre de mon stage chez Adstriver, j'ai été chargé de créer un formulaire web pour KBM-Recycling, permettant aux utilisateurs de soumettre des informations de manière efficace et sécurisée et configurer un système de génération de PDF pour les données soumises, afin de faciliter la gestion et l'archivage des informations et configurer un envoi automatique des PDF générés par email aux utilisateurs et à l'équipe de KBM-Recycling, assurant ainsi une communication fluide et rapide.",
+  "technos": [
+    "React.js",
+    "Tailwind CSS",
+    "JavaScript",
+    "jsPDF",
+    "Resend"
+  ],
+  "challenge": "Créer un formulaire web interactif et sécurisé pour KBM-Recycling, avec génération automatique de PDF et envoi par email, afin d'améliorer la gestion des informations soumises par les utilisateurs.",
+  "solution": "Développement d'une application web utilisant React.js et Tailwind CSS pour créer un formulaire interactif, intégration de jsPDF pour la génération automatique de PDF et configuration d'un système d'envoi par email via Resend pour assurer une communication efficace.",
+  "resources": [
+    {
+      "type": "web",
+      "title": "Site Web",
+      "desc": "Formulaire web interactif pour KBM-Recycling avec génération automatique de PDF et envoi par email.",
+      "url": "https://formkbmrecylcing.vercel.app",
+      "btnText": "Voir le Site"
+    }
+  ]
+},
+{
+  "id": 9,
+  "titre": "Adstriver",
+  "categorie": "Site Web - WordPress",
+  "annee": "2026",
+  "couleur": "#1E1E24",
+  "image": "/image/Adstriver.png",
+  "description": "J'ai pris en charge la modernisation complète du site adstriver.com afin de lui apporter une identité plus moderne et actuelle. Ce projet a consisté à intégrer de nouvelles pages stratégiques pour offrir des informations supplémentaires aux utilisateurs, tout en modifiant les éléments existants et en harmonisant le design sur l'intégralité du site pour assurer une parfaite cohérence visuelle. J'ai ainsi conçu et retravaillé l'ensemble des pages dédiées aux secteurs d'activité, aux services, aux engagements RSE ainsi qu'à la présentation de l'entreprise. En parallèle, j'ai mené un travail approfondi sur le référencement naturel (SEO) afin d'accroître la visibilité de la plateforme sur les moteurs de recherche, ce qui a permis d'enregistrer une forte hausse de trafic et de battre le record historique du nombre de visiteurs sur le site.",
+  "technos": [
+    "WordPress",
+    "Gutenberg",
+    "Yaost SEO",
+    "HTML"
+  ],
+  "challenge": "Moderniser le site web existant d'Adstriver.com en intégrant de nouvelles pages et sections, harmoniser le design sur l'ensemble du site et optimiser le référencement naturel (SEO) pour améliorer la visibilité sur les moteurs de recherche.",
+  "solution": "Refonte du site web d'Adstriver.com avec intégration de nouvelles pages stratégiques, harmonisation du design et optimisation SEO pour améliorer la visibilité et l'expérience utilisateur.",
+  "resources": [
+    {
+      "type": "web",
+      "title": "Site Web Adstriver",
+      "desc": "Refonte complète du site web d'Adstriver.com avec intégration de nouvelles pages, harmonisation du design et optimisation SEO pour améliorer la visibilité et l'expérience utilisateur.",
+      "url": "https://www.adstriver.com",
+      "btnText": "Voir le Site"
+    }
+  ]
+}
 ]

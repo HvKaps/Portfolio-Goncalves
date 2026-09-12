@@ -184,15 +184,16 @@ export default function App() {
 								darkMode ? "text-zinc-400" : "text-zinc-600"
 							}`}
 						>
-							Je suis <strong className="bg">Hugo</strong>, 
-    futur étudiant en Master et fort d'une expérience concrète en agence. <br /> <br />
-    Après trois années de BUT MMI, j'ai développé un profil hybride et polyvalent, 
-    capable de naviguer facilement entre la logique technique et la créativité visuelle. <br /> <br />
-    Mes compétences clés se concentrent aujourd'hui sur le développement Full-Stack (React.js), 
-    le design UI/UX et la création graphique. <br /> <br />
-    J'ai pu mettre en pratique ces connaissances à travers divers projets universitaires 
-    et professionnels, que je vous invite à découvrir ici.
-						</p>
+						
+    Je suis <strong className="bg">Hugo</strong>, 
+    étudiant à l'EFREI en Mastère Dev Manager Full Stack et à la recherche d'une alternance disponible immédiatement. <br /> <br />
+    Diplômé d'un BUT MMI et fort d'une expérience concrète en agence, j'ai développé un profil hybride, 
+    capable de faire le pont entre la conception visuelle et la rigueur technique. <br /> <br />
+    Mes compétences clés s'étendent du développement Full-Stack (React.js, Spring Boot, Docker) 
+    au design UI/UX et à la création graphique (Figma, suite Adobe). <br /> <br />
+    J'ai pu éprouver cette polyvalence sur des projets d'envergure en production, 
+    que je vous invite à découvrir ici.
+</p>
 						<div
 							className={`flex gap-6 text-sm font-medium ${
 								darkMode ? "text-zinc-300" : "text-zinc-700"
