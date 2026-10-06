@@ -2,9 +2,9 @@ import { Github, Linkedin, Globe, Mail } from "lucide-react";
 import Chat from "./Chat.jsx";
 
 function Footer({ darkMode }) {
-    return (<>
-
-        {/* FOOTER */}
+	return (
+		<>
+			{/* FOOTER */}
 			<footer
 				id="contact"
 				className={`py-32 px-6 ${
@@ -13,18 +13,20 @@ function Footer({ darkMode }) {
 			>
 				{/* ... contenu footer ... */}
 				<div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-16">
-					<div>
+					<div className="min-w-0">
 						<h2 className="text-6xl font-bold tracking-tighter mb-6">
 							Contact.
 						</h2>
 						<a
 							href="mailto:hv.fernandes.pro@gmail.com"
-							className="flex items-center gap-3 text-2xl font-medium hover:opacity-50 transition-opacity cursor-pointer"
+							className="flex min-w-0 items-center gap-3 text-2xl font-medium hover:opacity-50 transition-opacity cursor-pointer"
 						>
-							<div className="w-10 h-10 bg-black text-white rounded-full flex items-center justify-center">
+							<div className="w-10 h-10 shrink-0 bg-black text-white rounded-full flex items-center justify-center">
 								<Mail size={18} />
 							</div>
-							hv.fernandes.pro@gmail.com
+							<span className="break-all">
+								hv.fernandes.pro@gmail.com
+							</span>
 						</a>
 						<div className="flex gap-4 mt-8">
 							{[
@@ -59,7 +61,8 @@ function Footer({ darkMode }) {
 					</div>
 				</div>
 			</footer>
-                    </>);
+		</>
+	);
 }
 
 export default Footer;
